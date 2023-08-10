@@ -10,5 +10,3 @@ $ npx create-next-app@latest ./
 Creating a new Next.js app in C:\Users\Anthony\Desktop\code\mern\threads.
 
 npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing
-
-// test
