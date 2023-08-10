@@ -9,4 +9,6 @@ $ npx create-next-app@latest ./
 √ Would you like to customize the default import alias? ... No
 Creating a new Next.js app in C:\Users\Anthony\Desktop\code\mern\threads.
 
-npm install @clerk/nextjs @uploadthing/react
+npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing
+
+// test
