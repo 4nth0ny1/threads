@@ -28,3 +28,5 @@ $ npx shadcn-ui@latest init
 √ Write configuration to components.json. Proceed? ... yes
 
 npx shadcn-ui@latest add form
+
+The installation created a duplicate components file. I moved all the components from the folder I created into the one shadcn created and it functions normally now.
